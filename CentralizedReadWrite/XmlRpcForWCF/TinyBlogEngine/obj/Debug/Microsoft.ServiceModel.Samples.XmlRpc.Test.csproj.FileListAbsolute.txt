@@ -1,0 +1,16 @@
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe.config
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.pdb
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.dll
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.pdb
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe
+C:\PDC\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.pdb
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe.config
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.pdb
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.dll
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.pdb
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.exe
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\Microsoft.ServiceModel.XmlRpc.Samples.Test.pdb

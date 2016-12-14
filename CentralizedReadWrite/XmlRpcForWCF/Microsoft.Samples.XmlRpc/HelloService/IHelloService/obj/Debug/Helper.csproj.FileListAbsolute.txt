@@ -1,0 +1,4 @@
+C:\Users\ict_2\Desktop\3rd semester\HelloService\IHelloService\bin\Debug\IHelloService.dll
+C:\Users\ict_2\Desktop\3rd semester\HelloService\IHelloService\bin\Debug\IHelloService.pdb
+C:\Users\ict_2\Desktop\3rd semester\HelloService\IHelloService\obj\Debug\IHelloService.dll
+C:\Users\ict_2\Desktop\3rd semester\HelloService\IHelloService\obj\Debug\IHelloService.pdb

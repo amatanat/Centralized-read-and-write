@@ -1,0 +1,9 @@
+C:\Users\ict_2\Desktop\PDS Project main\HelloService\bin\Release\HelloService.dll
+C:\Users\ict_2\Desktop\PDS Project main\HelloService\bin\Release\HelloService.pdb
+C:\Users\ict_2\Desktop\PDS Project main\HelloService\obj\Release\HelloService.dll
+C:\Users\ict_2\Desktop\PDS Project main\HelloService\obj\Release\HelloService.pdb
+C:\Users\Rufat Babayev\Desktop\Solution 2\HelloService\bin\Release\HelloService.dll
+C:\Users\Rufat Babayev\Desktop\Solution 2\HelloService\bin\Release\HelloService.pdb
+C:\Users\Rufat Babayev\Desktop\Solution 2\HelloService\obj\Release\HelloService.csprojResolveAssemblyReference.cache
+C:\Users\Rufat Babayev\Desktop\Solution 2\HelloService\obj\Release\HelloService.dll
+C:\Users\Rufat Babayev\Desktop\Solution 2\HelloService\obj\Release\HelloService.pdb

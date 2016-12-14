@@ -1,0 +1,6 @@
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\bin\Debug\Client.exe.config
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\bin\Debug\Client.exe
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\bin\Debug\Client.pdb
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\obj\Debug\Client.exe
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Client\obj\Debug\Client.pdb

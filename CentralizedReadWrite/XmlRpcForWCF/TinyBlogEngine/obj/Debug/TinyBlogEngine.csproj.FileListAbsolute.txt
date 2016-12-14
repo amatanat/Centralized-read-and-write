@@ -1,0 +1,15 @@
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\TinyBlogEngine.exe.config
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\TinyBlogEngine.exe
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\TinyBlogEngine.pdb
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.dll
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\bin\Debug\Microsoft.ServiceModel.Samples.XmlRpc.pdb
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\TinyBlogEngine.exe
+C:\PDC2008\Microsoft.ServiceModel.Samples.XmlRpc\Microsoft.ServiceModel.XmlRpc.Test\obj\Debug\TinyBlogEngine.pdb
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\bin\Debug\TinyBlogEngine.exe
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\bin\Debug\TinyBlogEngine.pdb
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\bin\Debug\Microsoft.Samples.XmlRpc.dll
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\bin\Debug\Microsoft.Samples.XmlRpc.pdb
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\obj\Debug\TinyBlogEngine.csprojResolveAssemblyReference.cache
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\obj\Debug\TinyBlogEngine.exe
+C:\Users\ict_2\Downloads\XmlRpcForWCF (1)\TinyBlogEngine\obj\Debug\TinyBlogEngine.pdb

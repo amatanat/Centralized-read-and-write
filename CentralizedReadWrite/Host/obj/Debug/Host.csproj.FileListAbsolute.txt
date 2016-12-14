@@ -1,0 +1,19 @@
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\Host.exe.config
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\Host.exe
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\Host.pdb
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\HelloService.dll
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\HelloService.pdb
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\obj\Debug\Host.exe
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\obj\Debug\Host.pdb
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\Microsoft.Samples.XmlRpc.dll
+C:\Users\ict_2\Desktop\3rd semester\HelloService\Host\bin\Debug\Microsoft.Samples.XmlRpc.pdb
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\Host.exe.config
+C:\Users\ict_2\Desktop\HelloService\Host\obj\Debug\Host.exe
+C:\Users\ict_2\Desktop\HelloService\Host\obj\Debug\Host.pdb
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\Host.exe
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\Host.pdb
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\HelloService.dll
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\HelloService.pdb
+C:\Users\ict_2\Desktop\HelloService\Host\bin\Debug\Microsoft.Samples.XmlRpc.pdb
+C:\Users\ict_2\Desktop\HelloService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
